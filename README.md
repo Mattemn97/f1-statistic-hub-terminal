@@ -1,6 +1,6 @@
-# 🏎️ F1-TSA: Formula 1 Terminal Situation Awareness
+# 🏎️ F1-SHT: F1 Statistic Hub Terminal
 
-**F1-TSA** è un'interfaccia utente da terminale (TUI) ad alte prestazioni per il monitoraggio telemetrico e l'analisi strategica delle sessioni di Formula 1. Sviluppata in Python con `Textual` e `Plotext`, trasforma il terminale in un muretto box ingegneristico, ottimizzato per la visualizzazione dei dati in tempo reale e l'analisi storica chirurgica.
+**F1-SHT** è un'interfaccia utente da terminale (TUI) ad alte prestazioni per il monitoraggio telemetrico e l'analisi strategica delle sessioni di Formula 1. Sviluppata in Python con `Textual` e `Plotext`, trasforma il terminale in un muretto box ingegneristico, ottimizzato per la visualizzazione dei dati in tempo reale e l'analisi storica chirurgica.
 
 ---
 
