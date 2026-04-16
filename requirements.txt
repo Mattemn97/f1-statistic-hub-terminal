@@ -1,4 +1,3 @@
-textual
-textual-plotext
+rich
 fastf1
 pandas
